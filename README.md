@@ -1,2 +1,0 @@
-# PKG-TEAM-
-PKGTEAM/moreheroes
